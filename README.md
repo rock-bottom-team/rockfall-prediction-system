@@ -1,8 +1,6 @@
 # Rockfall Prediction System
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://v0-remix-of-rockfall-prediction-sy.vercel.app/)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app)
-
+    SIH project by RockBottom team
+    
 A light-themed, real-time monitoring and analytics dashboard to predict rockfall risks in mining environments. The app visualizes sensor data, computes risk indicators, and provides role-based dashboards for managers, engineers, and workers.
 
 ## Live Demo
