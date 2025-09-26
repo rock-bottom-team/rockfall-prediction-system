@@ -21,7 +21,7 @@ A light-themed, real-time monitoring and analytics dashboard to predict rockfall
 
 ## Tech Stack
 
-- Framework: Next.js (App Router) + TypeScript
+- Framework: React.js + TypeScript
 - UI: Tailwind CSS v4 + shadcn/ui + Radix primitives
 - Charts: Recharts
 - Theming: Design tokens (bg-background, text-foreground, etc.) with light palette
